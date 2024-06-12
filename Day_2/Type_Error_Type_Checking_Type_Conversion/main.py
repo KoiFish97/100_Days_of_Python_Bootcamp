@@ -32,6 +32,21 @@
 # Prints string
 # print(str(70)+ str(100))
 
+# Day 2 - Data Types
+# Make the output the sum of the numbers in the input (39 = 12)
+# My Solution
+# two_digit_number = input()
+# a = two_digit_number[0]
+# b = two_digit_number[1]
+# print(int(a) + int(b))
+
+# Challenge Solution
+# two_digit_number = input()
+# first_digit = int(two_digit_number[0])
+# second_digit = int(two_digit_number[1])
+# Add the two integers together
+# two_digit_number = first_digit + second_digit
+# print(two_digit_number)
 
 
 
