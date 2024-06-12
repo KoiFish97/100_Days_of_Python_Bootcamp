@@ -47,6 +47,3 @@
 # Add the two integers together
 # two_digit_number = first_digit + second_digit
 # print(two_digit_number)
-
-
-
