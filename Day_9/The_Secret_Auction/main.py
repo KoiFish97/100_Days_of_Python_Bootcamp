@@ -31,10 +31,10 @@ while should_continue:
             should_continue = False
             break
         elif result == 'yes':
+            clear()
             break
         else:
             print("Invalid Input. Please enter 'Yes' or 'No'")
-    clear()
 
 
 highest_bid = 0
